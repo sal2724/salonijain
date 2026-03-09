@@ -1,6 +1,6 @@
 # salonijain
 <p align="center">
-  <img src="banner.png" />
+  <img src="Banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saloni Jain</h1>

@@ -1,7 +1,7 @@
 # salonijain
 
 <h1 align="center">Hi 👋, I'm Saloni Jain</h1>
-<h3 align="center">Software Developer | React | Azure DevOps | Python</h3>
+<h3 align="center">Software Developer | React | Azure DevOps | Python |System Design</h3>
 
 ---
 
@@ -14,12 +14,12 @@ I enjoy building scalable web applications, working with cloud technologies, and
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Azure Logic Apps & Function Apps**
-- 💻 Working with **React.js and cloud infrastructure**
-- 🌱 Currently improving my **DevOps & Full Stack Development skills**
-- 👩‍💻 Passionate about **building scalable applications**
-- 🎯 Goal: Work in a **high-growth product-based company**
-
+- 💻 Software Developer currently working at **Tata Consultancy Services**
+- ☁️ Working on **cloud-based development and modern web applications**
+- ⚛️ Experienced in building **frontend applications using React.js and integrating REST APIs**
+- 🔧 Skilled in **full-stack development, DevOps workflows, and scalable application design**
+- 🌱 Continuously learning **system design, backend development, and cloud technologies**
+- 🎯 Currently looking for **Full Stack Developer opportunities in product-based companies**
 ---
 
 ### 💬 Ask Me About
@@ -118,8 +118,7 @@ React.js app fetching real-time weather using APIs.
 
 📧 Email: saloni.jain1110@gmail.com  
 
-💼 LinkedIn:  
-(put your LinkedIn link here)
+💼 LinkedIn:  https://www.linkedin.com/in/saloni-jain-11a10b2002c/
 
 ---
 
